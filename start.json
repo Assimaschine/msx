@@ -1,6 +1,6 @@
 {    
     "name": "Assimilator",
     "version": "1.0.0",
-    "parameter": "menu:https://Assimaschine.github.io/msx/data/menu.json",
+    "parameter": "https://Assimaschine.github.io/msx/data/menu.json",
     "welcome": "none"
 }
